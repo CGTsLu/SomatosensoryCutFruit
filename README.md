@@ -11,5 +11,5 @@
 
 #### 项目演示
 
-![img](https://gitee.com/ltsstudy/SomatosensoryCutFruit/raw/master/%E9%99%84%E4%BB%B61%EF%BC%9A%E4%BD%93%E6%84%9F%E5%88%87%E6%B0%B4%E6%9E%9C%E6%B8%B8%E6%88%8F%E6%BC%94%E7%A4%BA.gif)
+![img](https://github.com/CGTsLu/SomatosensoryCutFruit/blob/04922c909c230a880a9ffc25adc77528ebd802c2/%E9%99%84%E4%BB%B61%EF%BC%9A%E4%BD%93%E6%84%9F%E5%88%87%E6%B0%B4%E6%9E%9C%E6%B8%B8%E6%88%8F%E6%BC%94%E7%A4%BA.gif)
 
